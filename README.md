@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, welcome to my profile! 👋🏻
 
-<!--
-**denevawidya/denevawidya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Deva, and I'm a newbie in learning data field 👩🏻‍💻📊
 
-Here are some ideas to get you started:
+Here are listed the collection of tasks and projects I've worked on, mostly using Python 🐍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also, I always open for a suggestions and corrections to make all this works be better in the future 😊
+
+Feel free to contact me through:
+- 📩 denevawidya@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/denevawidya)
+
+Let's collaborate together! ✨
